@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.greenbox, #survey{
+	border: solid black 1px;
+	padding: 10px;
+	margin: 5px;
+}
+
+.greenbox{
+	background-color: #aad191;
+	width: 260px;
+}
+
+#survey{
+	display: inline-block;
+}
+
+#commenthead{
+	display: block;
+}
+
+textarea{
+	display: block;
+}
+
+.hidden{
+	display: none;
+}
